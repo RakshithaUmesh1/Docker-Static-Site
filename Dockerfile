@@ -20,7 +20,7 @@ CMD ["bash", "-c", "echo $GREETING"]
 # 🐳 Build the Docker image
 # docker build -t example-env .
 #
-# ▶️ creattin conatainer from this image
+# ▶️ creattin conatainer from this image and give output
 #  dockre run -it --name Container1 example-env
 # --------------------------------------------
 
